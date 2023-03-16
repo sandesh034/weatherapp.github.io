@@ -10,6 +10,6 @@ Forntend Technology:
 HTML, CSS, BOOTSTRAP
 
 Backend Technology:
-Python Django 
+Python, Django 
 
 Thank you!!!
